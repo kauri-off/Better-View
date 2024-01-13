@@ -1,14 +1,14 @@
 [
 {
-  "modid": "altzoom",
-  "name": "AltZoom",
+  "modid": "betterview",
+  "name": "Better View",
   "description": "",
-  "version": "1.1",
+  "version": "1.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Kauri"],
-  "credits": "https://github.com/kauri-off/AltZoom",
+  "credits": "https://github.com/kauri-off/Better-View",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
