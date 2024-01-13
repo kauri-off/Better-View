@@ -1,0 +1,16 @@
+[
+{
+  "modid": "altzoom",
+  "name": "AltZoom",
+  "description": "",
+  "version": "1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kauri"],
+  "credits": "https://github.com/kauri-off/AltZoom",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
